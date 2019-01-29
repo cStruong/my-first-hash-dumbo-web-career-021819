@@ -5,7 +5,7 @@ end
 
 
 def shipping_manifest
-  the_manifest = {}
+  the_manifest = {"whale bone coresets" => 5, ""}
 end
 
 def retrieval
